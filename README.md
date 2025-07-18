@@ -23,15 +23,16 @@ This helped me practice:
 Each time you run the program, it generates a **unique token** (SHA-256 hash) using simulated card data.
 
 #### Project Structure
+```bash
 secure_card/
-├── main.py # Entry point
+├── main.py               # Punto de entrada del proyecto
 ├── token/
-│ └── generator.py # Token generator
+│   └── generator.py      # Generación del token seguro
 ├── utils/
-│ └── helpers.py # JSON file reader
+│   └── helpers.py        # Función para leer el archivo JSON
 └── data/
-└── card_data.json # Simulated card data
-
+    └── card_data.json    # Datos simulados de la tarjeta
+```
 ---
 
 ### Possible Attacks and Defenses
@@ -83,6 +84,7 @@ Este proyecto me ayudó a practicar:
 Cada vez que se ejecuta el programa, se genera un **token único** (un hash SHA-256) usando los datos simulados de una tarjeta.
 
 #### Estructura del proyecto
+```bash
 secure_card/
 ├── main.py # Punto de entrada del proyecto
 ├── token/
@@ -91,7 +93,7 @@ secure_card/
 │ └── helpers.py # Función para leer el archivo JSON
 └── data/
 └── card_data.json # Datos simulados de la tarjeta
-
+```
 ---
 
 ### Posibles ataques y mitigaciones
