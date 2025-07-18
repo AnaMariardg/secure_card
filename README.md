@@ -2,7 +2,7 @@
 
 ## 🇺🇸 English Version  
 Cybersecurity educational project on **tokenization of sensitive payment card data**.  
-Designed as a simple simulation to help understand how to better protect information without printing it.
+Designed as a simple simulation to help users understand how to better protect **Personally Identifiable Information (PII)** without printing it on the physical card. 
 
 ---
 
@@ -55,7 +55,7 @@ Check the card design preview in the folder: `assets/secure_card_design.png`.
 
 ## 🇪🇸 Versión en español  
 Proyecto educativo en ciberseguridad sobre la **tokenización de datos sensibles en tarjetas de pago**.  
-Diseñado como una simulación sencilla para comprender cómo proteger mejor la información sin imprimirla.
+Diseñado como una simulación simple para ayudar a los usuarios a comprender cómo proteger mejor la **Información de identificación personal (PII)** sin imprimirla en la tarjeta física.
 
 ---
 
