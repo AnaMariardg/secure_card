@@ -6,7 +6,7 @@ Designed as a simple simulation to help understand how to better protect informa
 
 ---
 
-### 🔍 Why this project?  
+### Why this project?  
 First step into cybersecurity. I created a simple payment card prototype with no printed data to protect seniors who still prefer physical cards over mobile wallets such as Apple Pay.  
 **Goal?** Less cash, more privacy, no habit changes.
 
@@ -19,10 +19,10 @@ This helped me practice:
 
 ---
 
-### ⚙️ How it works  
+### How it works  
 Each time you run the program, it generates a **unique token** (SHA-256 hash) using simulated card data.
 
-#### 📁 Project Structure
+#### Project Structure
 secure_card/
 ├── main.py # Entry point
 ├── token/
@@ -79,10 +79,10 @@ Este proyecto me ayudó a practicar:
 
 ---
 
-### ⚙️ ¿Cómo funciona?
+### ¿Cómo funciona?
 Cada vez que se ejecuta el programa, se genera un **token único** (un hash SHA-256) usando los datos simulados de una tarjeta.
 
-#### 📁 Estructura del proyecto
+#### Estructura del proyecto
 secure_card/
 ├── main.py # Punto de entrada del proyecto
 ├── token/
